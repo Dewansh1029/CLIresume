@@ -1,1 +1,1 @@
-use cli to command to know about user 
+use cli command to know about user 
